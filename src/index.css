@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav {
+  height: 70px;
+  display: flex;
+  padding: 20px 36px;
+  box-shadow: 0px 3px 7px rgba(0,0,0,0.1);
+}
+
+.nav-logo {
+  max-width: 100px;
+}
+
+.hero-img {
+  display: block;
+  margin: 26px auto;
+  /* width: 396px;
+  height: 232px; */
+}
+
+.hero-container {
+  font-family: Poppins;
+  margin-left: 36px;
+
+}
+
+.hero-title {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 39.6px;
+  width: 347px;
+  height: 40px;
+
+}
+
+.hero-text {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 17.6px;
+  width: 320px;
+}
